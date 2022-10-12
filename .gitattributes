@@ -1,1 +1,2 @@
 modem.img filter=lfs diff=lfs merge=lfs -text
+dsp.img filter=lfs diff=lfs merge=lfs -text
