@@ -2,4 +2,4 @@
 
 ## 1.Enter fastboot.
 
-## 2.Run ```./flash.sh``` in Terminal.
+## 2.Run `./flash.sh` OR `./SideLoad` in Terminal.
